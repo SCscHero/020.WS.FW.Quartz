@@ -1,0 +1,13 @@
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\020.WS.FW.Quartz.exe.config
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\020.WS.FW.Quartz.exe
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\020.WS.FW.Quartz.pdb
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\020.Library.FW.Log.dll
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\log4net.dll
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\020.Library.FW.Log.pdb
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\bin\Debug\log4net.xml
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\020.WS.FW.Quartz.csprojAssemblyReference.cache
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\_020.WS.FW.Quartz.ProjectInstaller.resources
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\020.WS.FW.Quartz.csproj.GenerateResource.cache
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\020.WS.FW.Quartz.csproj.CopyComplete
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\020.WS.FW.Quartz.exe
+D:\00070.代码仓\SCscCoreAPI\020.WS.FW.Quartz\obj\Debug\020.WS.FW.Quartz.pdb
